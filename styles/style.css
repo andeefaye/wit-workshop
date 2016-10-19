@@ -3,3 +3,17 @@ body {
 	font-family: 'quicksand',sans-serif;
 	color: #FDA856;
 }
+.plain-list {
+	list-style: none;
+}
+#Alice {
+	width: 500px;
+	float: right;
+}
+#Oscar{
+	width: 500px;
+	float: right;
+}
+.height {
+	height: 700px
+}
