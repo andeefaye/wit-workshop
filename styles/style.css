@@ -10,3 +10,12 @@ body {
 a:hover {
 	color: navy;
 }
+
+@media (max-width: 400px) {
+	#Alice {
+		width: 120px;
+	}
+	#Oscar {
+		width: 120px
+	}
+}
