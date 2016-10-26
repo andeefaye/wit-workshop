@@ -6,14 +6,8 @@ body {
 .plain-list {
 	list-style: none;
 }
-#Alice {
-	width: 500px;
-	float: right;
-}
-#Oscar{
-	width: 500px;
-	float: right;
-}
-.height {
-	height: 700px
+
+
+a:hover {
+	color: navy;
 }
